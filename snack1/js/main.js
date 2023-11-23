@@ -5,7 +5,7 @@ const biciclette = [
     { nome: "Bici 2", peso: 25 },
     { nome: "Bici 3", peso: 14 },
     { nome: "Bici 4", peso: 28 },
-    { nome: "Bici 5", peso: 55 },
+    { nome: "Bici 5", peso: 55 },      
 ];
 // ciclo per confrontare il peso
 let biciLeggera = biciclette[0];

@@ -16,6 +16,9 @@ squadre.forEach((squadra) => {
 })
 
 // Nuovo array 
-const classificaFalli = squadre.map(({nome, falliSubiti}) => ({nome, falliSubiti}));
+const classificaFalli = squadre.map(({ nome, falliSubiti }) => {
+    return { nome, falliSubiti }
+}
+);
 
 console.log(classificaFalli);
