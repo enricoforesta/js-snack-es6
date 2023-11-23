@@ -35,3 +35,13 @@ Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengo
 
 3. Con la propietà map creiamo un nuovo array solamente con nome e falli subiti.
     Dopo la arrow dobbiamo mettere le () in modo che venga riconosciuto come oggetto.
+# Bonus Snack 3
+Scrivere una funzione che accetti tre argomenti, un array e due numeri (a più piccolo di b).
+
+La funzione ritornerà un nuovo array con i valori che hanno la posizione compresa tra i due numeri.
+
+# Logica
+
+1. Creo un array con elementi casuali.
+
+2. Creo una funzione che mi deve ritornare gli elementi compresi tra due argomenti dati, uso .filter 
